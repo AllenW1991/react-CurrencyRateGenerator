@@ -8185,7 +8185,11 @@ function Rd() {
                     q('a', {
                         href: 'https://vitejs.dev',
                         target: '_blank',
-                        children: q('img', { src: '/vite.svg', className: 'logo', alt: 'Vite logo' }),
+                        children: q('img', {
+                            src: '/react-CurrencyRateGenerator/vite.svg',
+                            className: 'logo',
+                            alt: 'Vite logo',
+                        }),
                     }),
                     q('a', {
                         href: 'https://reactjs.org',
