@@ -7,7 +7,7 @@ function Generator() {
     const [currency, setCurrency] = useState([
         { currency: 'USD', rate: 0.033 },
         { currency: 'HKD', rate: 0.26 },
-        { currency: 'TWD', rate: 43.63 },
+        { currency: 'JPY', rate: 43.63 },
         { currency: 'GBP', rate: 0.027 },
     ])
     const [newCurrency, setNewCurrency] = useState({ currency: '', rate: '' })

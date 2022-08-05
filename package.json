@@ -1,7 +1,7 @@
 {
     "name": "react-vite",
     "private": true,
-    "home": "https://allenw1991.github.io/react-currencyrategenerator",
+    "home": "https://allenw1991.github.io/react-CurrencyRateGenerator",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
